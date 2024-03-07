@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+.imgProp {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.secTitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.bg-black {
+    background-color: #121212;
+}
+
+.text-pr {
+    color: #3330E4;
+}
+.bg-pri {
+background-color: #3330E4;
+}
+.calign {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

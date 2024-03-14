@@ -19,7 +19,7 @@
 }
 
 .navbar-toggler {
-    color: #3330E4;
+    color: #5654de;
     font-size: 27px;
 }
 
@@ -31,7 +31,7 @@
     background-color: #f8f9fa !important;
 
     .nav-link {
-        color: #3330E4 !important;
+        color:#5654de !important;
     }
 
     .nav-link:hover {
@@ -99,7 +99,7 @@
 
 #intro .carousel-item::before {
     content: "";
-    background-color: rgba(9, 98, 234, 0.6);
+    background-color: rgba(50, 111, 203, 0.6);
 
 }
 
@@ -199,7 +199,7 @@
 
 
 #about .iconWrapper i {
-    color: #3330E4;
+    color: #5654de;
     font-size: 2.5rem;
 }
 
@@ -279,7 +279,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #3330E4;
+    background: #5654de;
     border-radius: 50%;
     width: 45px;
     height: 45px;
@@ -287,6 +287,9 @@ p {
 
 #training {
     background-color: #eeeeee;
+}
+.training1{
+    background-color: #5654de;
 }
 
 #training h1 {
@@ -302,7 +305,7 @@ p {
     display: table-cell;
     width: 50px;
     height: 50px;
-    background-color: #3330E4;
+    background-color:#5654de;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -339,7 +342,7 @@ p {
 }
 
 #recruit .iconwrapper {
-    background: #3330E4;
+    background:#5654de;
     border-radius: 50%;
     width: 55px;
     aspect-ratio: 1;
@@ -377,7 +380,7 @@ p {
 }
 
 #products .iconwrapper {
-    background: #3330E4;
+    background: #5654de;
     border-radius: 50%;
     width: 55px;
     aspect-ratio: 1;
@@ -492,7 +495,7 @@ p {
 }
 
 #contact .iconwrapper {
-    background: #3330E4;
+    background: #5654de;
     border-radius: 50%;
     width: 55px;
     aspect-ratio: 1;
@@ -514,7 +517,7 @@ p {
 
 footer {
     padding: 4rem 0;
-    background-color: #0404fe;
+    background-color: #5654de;
 }
 
 a {
@@ -568,7 +571,7 @@ footer p{
 .back-to-top {
     position: fixed;
     display: table;
-    background: #3330E4;
+    background: #3b39ca;
     color: #fff;
     width: 44px;
     height: 44px;

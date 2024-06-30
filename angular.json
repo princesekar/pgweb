@@ -79,10 +79,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "pgintsys:build:production"
+              "buildTarget": "pgintsys:build:production"
             },
             "development": {
-              "browserTarget": "pgintsys:build:development"
+              "buildTarget": "pgintsys:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -90,7 +90,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "pgintsys:build"
+            "buildTarget": "pgintsys:build"
           }
         },
         "test": {
